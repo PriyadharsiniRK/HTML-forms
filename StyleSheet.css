@@ -1,0 +1,15 @@
+﻿body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+label {
+    font-size: 20px;
+    font-weight: bold;
+}
+h2{
+    color: darkblue;
+}
+p{
+font-weight: bold;
+}
